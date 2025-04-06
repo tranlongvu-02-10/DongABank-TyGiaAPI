@@ -22,4 +22,6 @@ Cách nhúng **API Tỷ Giá Hối Đoái từ Ngân Hàng Đông Á** vào webs
 ---
 ## Ảnh minh họa
 ![image](https://github.com/user-attachments/assets/185aa729-3f19-4d9b-b6eb-86c65b4098a2)
+![image](https://github.com/user-attachments/assets/6dc87cd9-2f82-4083-899c-3f8f78d17799)
+
 
