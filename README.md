@@ -1,7 +1,7 @@
 #DongABank-TyGiaAPI
 
 ##  Mô tả
-Dự án này hướng dẫn cách nhúng **API Tỷ Giá Hối Đoái từ Ngân Hàng Đông Á** vào website riêng của bạn, sử dụng nền tảng **ASP.NET Core MVC**. Dữ liệu được lấy theo định dạng **JSON**, sau đó parse sang **C# class** và hiển thị trên giao diện web.
+Cách nhúng **API Tỷ Giá Hối Đoái từ Ngân Hàng Đông Á** vào website, sử dụng nền tảng **ASP.NET Core MVC**. Dữ liệu được lấy theo định dạng **JSON**, sau đó parse sang **C# class** và hiển thị trên giao diện web.
 
 ---
 
