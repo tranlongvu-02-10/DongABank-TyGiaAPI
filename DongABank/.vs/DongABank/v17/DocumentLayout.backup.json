@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DongABank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3E507-CB7B-4B46-A4C7-3B2E70AAD70C}|DongABank.csproj|d:\\dongabank\\views\\tigiadongabank\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68B3E507-CB7B-4B46-A4C7-3B2E70AAD70C}|DongABank.csproj|solutionrelative:views\\tigiadongabank\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3E507-CB7B-4B46-A4C7-3B2E70AAD70C}|DongABank.csproj|d:\\dongabank\\controllers\\tigiadongabankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3E507-CB7B-4B46-A4C7-3B2E70AAD70C}|DongABank.csproj|solutionrelative:controllers\\tigiadongabankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3E507-CB7B-4B46-A4C7-3B2E70AAD70C}|DongABank.csproj|d:\\dongabank\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3E507-CB7B-4B46-A4C7-3B2E70AAD70C}|DongABank.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B3E507-CB7B-4B46-A4C7-3B2E70AAD70C}|DongABank.csproj|d:\\dongabank\\models\\tigiadonga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B3E507-CB7B-4B46-A4C7-3B2E70AAD70C}|DongABank.csproj|solutionrelative:models\\tigiadonga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DongABank\\Views\\TiGiaDongABank\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TiGiaDongABank\\Index.cshtml",
+              "ToolTip": "D:\\DongABank\\Views\\TiGiaDongABank\\Index.cshtml",
+              "RelativeToolTip": "Views\\TiGiaDongABank\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:58:14.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiGiaDongABankController.cs",
+              "DocumentMoniker": "D:\\DongABank\\Controllers\\TiGiaDongABankController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TiGiaDongABankController.cs",
+              "ToolTip": "D:\\DongABank\\Controllers\\TiGiaDongABankController.cs",
+              "RelativeToolTip": "Controllers\\TiGiaDongABankController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:52:12.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TiGiaDongA.cs",
+              "DocumentMoniker": "D:\\DongABank\\Models\\TiGiaDongA.cs",
+              "RelativeDocumentMoniker": "Models\\TiGiaDongA.cs",
+              "ToolTip": "D:\\DongABank\\Models\\TiGiaDongA.cs",
+              "RelativeToolTip": "Models\\TiGiaDongA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:50:14.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\DongABank\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "D:\\DongABank\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:47:06.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
